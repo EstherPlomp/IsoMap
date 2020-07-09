@@ -12,8 +12,8 @@ Installation of the packages and loading the data should only take several minut
 You can run each script separately with the data provided, or use your own dataset.
 
 # Authors
-Esther Plomp - [EstherPlomp][https://github.com/EstherPlomp] https://orcid.org/0000-0003-3625-1357
-Joshua Peterson - [J_PTRson][https://github.com/J-PTRSON] http://orcid.org/0000-0001-5792-2725
+Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+Joshua Peterson - [J_PTRson](https://github.com/J-PTRSON) [0000-0001-5792-2725](http://orcid.org/0000-0001-5792-2725)
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
