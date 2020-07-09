@@ -1,0 +1,145 @@
+ID;Sample ID;Province;Location;Latitude (WGS84);Longitude (WGS84);Water company ;87Sr/86Sr;2SE2
+69;Hoogeveen;Drenthe;Hoogeveen;52,724;6,473;WMD;0,708623;10
+91;Norg II;Drenthe;Norg;53,066;6,458;WMD;0,708702;9
+92;Norg III;Drenthe;Norg;53,065;6,461;WMD;0,708713;10
+70;LF50;Drenthe;Hoogeveen;52,723;6,481;WMD;0,708729;7
+35;Diever;Drenthe;Diever;52,855;6,318;WMD;0,70894;8
+23;Borger;Drenthe;Borger;52,923;6,795;WMD;0,7097;8
+46;Emmen;Drenthe;Emmen;52,782;6,896;WMD;0,710174;9
+87;LF49;Drenthe;Nieuw Weerdinge;52,857;6,988;WMD;0,710293;8
+85;Meppel;Drenthe;Meppel;52,697;6,197;Vitens;0,710636;8
+41;Dronten;Flevoland;Dronten;52,535;5,722;Vitens;0,708835;8
+9;Almere Centrum;Flevoland;Almere Centrum;52,374;5,218;Vitens;0,708871;9
+8;Almere;Flevoland;Almere Buiten;52,401;5,274;Vitens;0,708872;8
+81;Lelystad;Flevoland;Lelystad;52,512;5,474;Vitens;0,708891;8
+39;Drachten;Flevoland;Drachten;53,106;6,083;Vitens;0,70908;6
+45;Emmeloord;Flevoland;Emmeloord;52,712;5,755;Vitens;0,709105;8
+77;Leeuwarden;Friesland;Leeuwarden;53,201;5,799;Vitens;0,708936;12
+62;Heerenveen;Friesland;Heerenveen;52,961;5,921;Vitens;0,70895;5
+60;Harlingen;Friesland;Harlingen;53,175;5,425;Vitens;0,708951;10
+40;LF51;Friesland;Drachten;53,108;6,105;Vitens;0,709073;8
+51;Franeker;Friesland;Franeker;53,189;5,556;Vitens;0,709582;8
+134;Winterswijk;Gelderland;Winterswijk;51,971;6,721;Vitens;0,708369;6
+26;Bredevoort;Gelderland;Bredevoort;51,942;6,618;Vitens;0,708393;9
+43;Ede;Gelderland;Ede;52,041;5,665;Vitens;0,708712;8
+19;Arnhem Zuid;Gelderland;Arnhem (zuid);51,985;5,899;Vitens;0,708715;9
+115;Tiel II;Gelderland;Tiel;51,888;5,428;Vitens;0,708774;9
+36;Doetinchem;Gelderland;Doetinchem;51,965;6,294;Vitens;0,708903;8
+130;Wageningen;Gelderland;Wageningen;51,969;5,665;Vitens;0,709099;8
+123;Velp;Gelderland;Velp;51,994;5,978;Vitens;0,709224;6
+50;Ermelo;Gelderland;Ermelo;52,299;5,63;Vitens;0,709377;6
+18;Arnhem Centrum;Gelderland;Arnhem (centrum);51,985;5,899;Vitens;0,70941;11
+89;Nijmegen II;Gelderland;Nijmegen;51,813;5,837;Vitens;0,709438;8
+90;Nijmegen;Gelderland;Nijmegen;51,84;5,85;Vitens;0,709463;8
+68;Hoenderloo;Gelderland;Hoenderloo;52,119;5,881;Vitens;0,709875;12
+14;Apeldoorn;Gelderland;Apeldoorn;52,211;5,969;Vitens;0,709976;8
+15;LF52;Gelderland;Apeldoorn;52,207;5,962;Vitens;0,710162;8
+133;Winschoten;Groningen;Winschoten;53,142;7,037;Waterbedrijf Groningen;0,708566;10
+111;Stadskanaal;Groningen;Stadskanaal;52,997;6,938;Waterbedrijf Groningen;0,708676;6
+93;Nuis;Groningen;Nuis;53,156;6,297;Waterbedrijf Groningen;0,70871;6
+33;Den Andel;Groningen;Den Andel;53,393;6,509;Waterbedrijf Groningen;0,708714;8
+16;Appingedam;Groningen;Appingedam;53,321;6,854;Waterbedrijf Groningen;0,70884;10
+17;LF53;Groningen;Appingenam;53,318;6,848;Waterbedrijf Groningen;0,708869;8
+56;Groningen II;Groningen;Groningen II;53,219;6,567;Waterbedrijf Groningen;0,70916;11
+55;Groningen;Groningen;Groningen;53,221;6,566;Waterbedrijf Groningen;0,709198;7
+64;LF19;Limburg;Heerlen ;50,888;5,979;WML;0,708383;7
+63;Heerlen;Limburg;Heerlen;50,886;5,971;WML;0,708406;11
+84;Mechelen;Limburg;Mechelen;51,03;4,48;WML;0,708423;11
+49;Enspijk;Limburg;Enspijk;51,883;5,211;WML;0,708994;11
+100;LF58;Limburg;Roermond;51,194;5,988;WML;0,709029;6
+101;LF55;Limburg;Roermond;51,195;5,997;WML;0,709039;4
+102;LF56;Limburg;Roermond;51,188;5,984;WML;0,709064;11
+98;Reuver;Limburg;Reuver;51,28;6,082;WML;0,709085;8
+103;LF57;Limburg;Roermond;51,2;5,993;WML;0,709105;40
+104;Roermond;Limburg;Roermond;51,189;5,997;WML;0,709118;8
+28;Brunssum;Limburg;Brunssum;50,949;5,972;WML;0,709207;7
+126;Venray;Limburg;Venray;51,526;5,974;WML;0,709264;6
+11;America;Limburg;America;51,436;5,979;WML;0,7093;9
+83;Maastricht;Limburg;Maastricht;50,846;5,687;WML;0,709408;10
+121;Valkenburg (L);Limburg;Valkenburg;50,865;5,832;WML;0,709513;8
+20;LF20;Limburg;Berg en Terblijt ;50,861;5,785;WML;0,709577;5
+24;Boxmeer;Limburg;Boxmeer;51,65;5,95;WML;0,710069;11
+82;Lottum;Limburg;Lottum;51,458;6,163;WML;0,710088;9
+72;Horst;Limburg;Horst ;51,453;6,055;WML;0,71009;10
+125;Venlo;Limburg;Venlo;51,372;6,191;WML;0,710226;9
+42;Echt;Limburg;Echt;51,103;5,875;WML;0,710245;8
+52;Geleen;Limburg;Geleen;50,967;5,828;WML;0,710255;11
+109;Sittard;Limburg;Sittard;50,997;5,871;WML;0,710395;6
+113;Susteren;Limburg;Susteren;51,065;5,85;WML;0,71072;7
+53;Gennep;Limburg;Gennep;51,698;5,973;WML;0,711544;7
+129;Vijlen;Limburg;Vijlen;50,789;5,963;WML;0,712285;8
+76;Kerkrade;Limburg;Kerkrade;50,861;6,025;WML;0,712783;9
+25;Breda;Noord_Brabant;Breda;51,59;4,78;Brabant Water;0,708932;8
+132;Wijk en Aalburg;Noord_Brabant;Wijk en Aalburg ;51,757;5,107;Brabant Water;0,708948;10
+116;Tilburg;Noord_Brabant;Tilburg;51,585;5,056;Brabant Water;0,708976;6
+4;Den Bosch II;Noord_Brabant;'s-Hertogenbosch II;51,698;5,304;Brabant Water;0,709108;24
+6;Achtmaal;Noord_Brabant;Achtmaal;51,454;4,583;Brabant Water;0,709116;9
+105;Roosendaal;Noord_Brabant;Roosendaal;51,531;4,46;Brabant Water;0,709218;10
+3;Den Bosch ;Noord_Brabant;'s-Hertogenbosch;51,711;5,312;Brabant Water;0,709288;7
+21;Bergen op Zoom;Noord_Brabant;Bergen op Zoom;51,495;4,287;Brabant Water;0,709337;10
+124;Velp NB;Noord_Brabant;Velp;51,749;5,717;Brabant Water;0,709512;5
+107;Schijndel;Noord_Brabant;Schijndel;51,618;5,438;Brabant Water;0,709672;10
+117;Uden;Noord_Brabant;Uden;51,663;5,624;Brabant Water;0,709691;14
+44;Eindhoven;Noord_Brabant;Eindhoven;51,442;5,47;Brabant Water;0,709828;7
+67;Hilversum;Noord_Holland;Hilversum;52,223;5,183;Vitens;0,708792;8
+47;Enkhuizen;Noord_Holland;Enkhuizen;52,704;5,291;PWN;0,708834;9
+71;Hoorn;Noord_Holland;Hoorn;52,723;6,481;PWN;0,708838;8
+58;Haarlem;Noord_Holland;Haarlem;52,387;4,646;PWN;0,708849;8
+5;Aalsmeer;Noord_Holland;Aalsmeer;52,262;4,762;PWN;0,708866;11
+61;Heemstede;Noord_Holland;Heemstede;52,351;4,62;Waternet;0,708874;9
+13;Amstelveen;Noord_Holland;Amstelveen;52,311;4,87;Waternet;0,708883;11
+138;LF14;Noord_Holland;Amsterdam;52,332;4,881;Waternet;0,708877;6
+65;Heiloo;Noord_Holland;Heiloo;52,601;4,7;PWN;0,708909;7
+114;Texel;Noord_Holland;t Horntje;53,005;4,784;PWN;0,708917;7
+34;Den Helder;Noord_Holland;Den Helder;52,956;4,761;PWN;0,708932;8
+30;Dalfsen;Overijssel;Dalfsen;52,508;6,26;Vitens ;0,708473;10
+57;Haaksbergen;Overijssel;Haaksbergen;52,16;6,74;Vitens;0,708735;8
+137;Zwolle;Overijssel;Zwolle;52,513;6,109;Vitens;0,708966;88
+94;Oldenzaal;Overijssel;Oldenzaal;52,31;6,922;Vitens;0,709097;9
+59;Hardenberg;Overijssel;Hardenberg;52,575;6,617;Vitens;0,709136;8
+48;Enschede;Overijssel;Enschede;52,222;6,894;Vitens;0,709219;7
+66;Hengelo;Overijssel;Hengelo;52,264;6,794;Vitens;0,709785;12
+7;Almelo;Overijssel;Almelo;52,367;6,668;Vitens;0,710229;9
+75;Kampen II;Overijssel;Kampen ;52,558;5,914;Vitens;0,710397;7
+74;Kampen;Overijssel;Kampen;52,552;5,892;Vitens;0,71046;8
+112;Steenwijk;Overijssel;Steenwijk;52,788;6,116;Vitens;0,71054;8
+120;Utrecht Zuilen;Utrecht;Utrecht Zuilen;52,096;5,052;Vitens;0,708812;9
+119;Utrecht Zuilen II;Utrecht;Utrecht II;52,095;5,053;Vitens;0,708847;7
+27;Breukelen;Utrecht;Breukelen;52,171;5,001;Vitens;0,708893;8
+29;Bunnik;Utrecht;Bunnik;52,066;5,2;Vitens;0,708896;11
+141;LF84;Utrecht;Utrecht;52,068;5,139;Vitens;0,708897;10
+122;Veenendaal;Utrecht;Veenendaal;52,026;5,554;Vitens;0,708912;9
+118;Utrecht;Utrecht;Utrecht;52,097;5,056;Vitens;0,708924;44
+127;Vianen;Utrecht;Vianen;51,99;5,109;Oasen;0,708952;9
+143;LF86;Utrecht;Utrecht;52,063;5,138;Vitens;0,709;10
+142;LF85;Utrecht;Utrecht;52,062;5,133;Vitens;0,70902;10
+88;Nieuwegein ;Utrecht;Nieuwegein;51,499;3,611;Vitens;0,709019;11
+73;Ijsselstein;Utrecht;Ijsselstein;51,45;6,051;Vitens;0,709085;8
+12;Amersfoort;Utrecht;Amersfoort;52,156;5,388;Vitens;0,709236;11
+128;Vianen II;Utrecht;Vianen;51,99;5,109;Oasen;0,709276;11
+110;Soesterberg;Utrecht;Soesterberg;52,119;5,299;Vitens;0,709388;8
+37;Doorn;Utrecht;Doorn;52,035;5,346;Vitens;0,710463;8
+96;Ouddorp;Zeeland;Ouddorp;51,807;3,96;Evides;0,708782;7
+108;Serooskerke;Zeeland;Serooskerke Schouwen;51,7;3,813;Evides;0,708871;6
+139;LF25;Zeeland;Hengstdijk;51,331;3,986;Evides;0,708945;8
+86;Middelburg;Zeeland;Middelburg;51,502;3,616;Evides;0,709125;8
+140;LF26;Zeeland;Kapelle;51,509;4,001;Evides;0,709563;9
+54;Gouda;Zuid_Holland;Gouda;52,012;4,71;Oasen;0,708817;9
+99;Ridderkerk;Zuid_Holland;Ridderkerk;51,867;4,603;Oasen;0,708847;9
+10;Alphen aan de Rijn;Zuid_Holland;Alpen aan de Rijn;52,127;4,649;Oasen;0,708862;8
+80;Leiderdorp;Zuid_Holland;Leiderdorp;52,16;4,497;Oasen;0,708865;9
+32;Delft II;Zuid_Holland;Delft;52,011;4,357;Dunea;0,708876;12
+131;Wassenaar;Zuid_Holland;Wassenaar;52,143;4,401;Dunea;0,709058;8
+1;s-Gravenhage;Zuid_Holland;'s-Gravenhage;52,07;4,301;Dunea;0,709066;8
+2;'s-Gravenhage II;Zuid_Holland;'s-Gravenhage;52,062;4,327;Dunea;0,709104;6
+78;Leiden;Zuid_Holland;Leiden;53,201;5,8;Dunea;0,709105;7
+135;Zwijndrecht II;Zuid_Holland;Zwijndrecht;51,811;4,627;Oasen;0,709204;11
+136;Zwijndrecht;Zuid_Holland;Zwijndrecht;51,811;4,627;Oasen;0,709207;11
+79;LF23;Zuid_Holland;Leiden;52,17;4,488;Dunea;0,709222;4
+38;LF18;Zuid_Holland;Dordrecht;51,807;4,686;Oasen;0,709279;5
+31;Delft;Zuid_Holland;Delft;52,009;4,36;Dunea;0,709321;8
+97;Poeldijk;Zuid_Holland;Poeldijk;52,03;4,225;Dunea;0,709344;11
+22;Berkel;Zuid_Holland;Berkel en Roderijs;51,991;4,473;Dunea;0,709367;8
+95;Oostvoorne;Zuid_Holland;Oostvoorne;51,908;4,096;Evides;0,709382;14
+106;Rotterdam;Zuid_Holland;Rotterdam;51,92;4,469;Evides;0,709386;6
+;;;;;;;0,708469;
