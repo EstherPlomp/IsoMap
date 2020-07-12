@@ -29,9 +29,9 @@ Map_script_tapwater_V1.R
 Examples of the resulting images using the enamel scripts can be found in the "Images" directory.
 
 # Contributors
-Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) - [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
 
-Joshua Peterson - [J-PTRson](https://github.com/J-PTRSON) [0000-0001-5792-2725](http://orcid.org/0000-0001-5792-2725)
+Joshua Peterson - [J-PTRson](https://github.com/J-PTRSON) - [0000-0001-5792-2725](http://orcid.org/0000-0001-5792-2725)
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
