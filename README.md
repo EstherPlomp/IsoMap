@@ -1,4 +1,4 @@
-# IsoMap
+# IsoMapNL
 Data and script to generate a map of the Netherlands for isotopic analyses (strontium isotopes).
 
 # Motivation
@@ -41,7 +41,7 @@ Joshua Peterson - [J-PTRson](https://github.com/J-PTRSON) - [0000-0001-5792-2725
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # How to cite?
-Plomp, E. and Peterson, J. C., 2020 IsoMAP, DOI *To be added*
+Plomp, E. and Peterson, J. C., 2020 IsoMAPNL version 1, DOI *To be added*
 
 # Related References 
 ## Dataset: 
