@@ -11,7 +11,24 @@ Installation of the packages and loading the data should only take several minut
 # How to use
 You can run each script separately with the data provided, or use your own dataset.
 
-# Authors
+There are two similar scripts running on two seperate datasets (enamel and tapwater) that were used for Plomp 2020 and Kootker et al. 2020. These have been included to allow anyone to reproduce Figures 7.2 and 7.3 in Plomp et al. 2020.
+
+## Heatmap scripts
+Heatmap_script_enamel_V1.R
+
+Heatmap_script_tapwater_V1.R
+
+The heatmap scripts make use of the sorted datasets (Database_enamel_sort.csv), as otherwise the order of the heatmap will be random.
+
+## map scripts
+Map_script_enamel_V1.R
+
+Map_script_tapwater_V1.R 
+
+## Examples of the output
+Examples of the resulting images using the enamel scripts can be found in the "Images" directory.
+
+# Contributors
 Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
 
 Joshua Peterson - [J-PTRson](https://github.com/J-PTRSON) [0000-0001-5792-2725](http://orcid.org/0000-0001-5792-2725)
@@ -24,8 +41,8 @@ Plomp, E. and Peterson, J. C., 2020 IsoMAP, DOI *To be added*
 
 # Related References 
 ## Dataset: 
-Kootker, L. M., Plomp, E., Ammer, S. T. M., Hoogland, V. and Davies, G. R. 2020. Spatial patterns in87Sr/86Sr ratios in modern human dental enamel andtap water from the Netherlands: Implications for forensic provenancing, https://doi.org/10.1016/j.scitotenv.2020.138992 
+Kootker, L. M., Plomp, E., Ammer, S. T. M., Hoogland, V. and Davies, G. R. 2020. Spatial patterns in 87Sr/86Sr ratios in modern human dental enamel and tap water from the Netherlands: Implications for forensic provenancing, https://doi.org/10.1016/j.scitotenv.2020.138992 
 
 ## Figures 
-Plomp, Esther. 2020. Unlocking Teeth: Development and application of isotopic methods for human provenance studies. PhD thesis, Vrije Universiteit Amsterdam. 
+Plomp, Esther. 2020. Unlocking Teeth: Development and application of isotopic methods for human provenance studies. PhD thesis, Vrije Universiteit Amsterdam. https://doi.org/10.5281/zenodo.3929551
 
