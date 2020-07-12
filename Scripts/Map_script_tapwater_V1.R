@@ -1,4 +1,4 @@
-#IsoMap script by Esther Plomp and Joshua Peterson: https://github.com/EstherPlomp/IsoMap 
+#IsoMap script by Esther Plomp and Joshua Peterson: https://github.com/EstherPlomp/IsoMapNL 
 
 
 #install and load the required packages 
