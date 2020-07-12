@@ -1,17 +1,17 @@
 # IsoMap
-Data and script to generate a map of the Netherlands for isotopic analyses (strontium isotopes)
+Data and script to generate a map of the Netherlands for isotopic analyses (strontium isotopes).
 
 # Motivation
-Most maps generated in the current literature are creating using ArcGIS. The reproducibility of these maps can be improved by using open source software, such as R, and sharing the data and script so that others can review and reuse the data/code. 
+Most maps generated in the current isotopic literature are creating using ArcGIS. The reproducibility of these maps can be improved by using open source software, such as R, and sharing the data and scripts so that others can review and reuse the data/code. 
 
 # Installation
-These scripts were generated in R and RStudio (Version 1.2.5019). Required packages: sp, raster, rworldmap, RColorBrewer
+These scripts were generated in R and RStudio (Version 1.2.5019). Required packages: pheatmap, raster, rworldmap, RColorBrewer
 Installation of the packages and loading the data should only take several minutes. 
 
 # How to use
-You can run each script separately with the data provided, or use your own dataset.
+You can run each script separately with the data provided (Kootker et al. 2020), or use your own dataset.
 
-There are two similar scripts running on two seperate datasets (enamel and tapwater) that were used for Plomp 2020 and Kootker et al. 2020. These have been included to allow anyone to reproduce Figures 7.2 and 7.3 in Plomp et al. 2020.
+There are two similar scripts running on two seperate datasets (enamel and tapwater). These have both been included to allow anyone to reproduce Figures 7.2 and 7.3 in Plomp et al. 2020.
 
 ## Heatmap scripts
 Heatmap_script_enamel_V1.R
@@ -27,6 +27,9 @@ Map_script_tapwater_V1.R
 
 ## Examples of the output
 Examples of the resulting images using the enamel scripts can be found in the "Images" directory.
+
+### Notes
+Mind whether you are using . or , in your dataset (see the #remove comma's comments in the scripts).
 
 # Contributors
 Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) - [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
