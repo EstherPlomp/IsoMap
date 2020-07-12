@@ -21,7 +21,7 @@ Heatmap_script_tapwater_V1.R
 
 The heatmap scripts make use of the sorted datasets (Database_enamel_sort.csv), as otherwise the order of the heatmap will be random.
 
-## map scripts
+## Map scripts
 Map_script_enamel_V1.R
 
 Map_script_tapwater_V1.R 
@@ -33,7 +33,7 @@ Examples of the resulting images using the enamel scripts can be found in the "I
 Mind whether you are using . or , in your dataset (see the #remove comma's comments in the scripts).
 
 # Contributors
-Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) - [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+Esther Plomp - [EstherPlomp](https://github.com/EstherPlomp) - [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357) - [@PhDtoothFAIRy](https://twitter.com/PhDToothFAIRy)
 
 Joshua Peterson - [J-PTRson](https://github.com/J-PTRSON) - [0000-0001-5792-2725](http://orcid.org/0000-0001-5792-2725)
 
