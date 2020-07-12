@@ -41,7 +41,7 @@ Joshua Peterson - [J-PTRson](https://github.com/J-PTRSON) - [0000-0001-5792-2725
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # How to cite?
-Plomp, E. and Peterson, J. C., 2020 IsoMAPNL version 1, DOI *To be added*
+Plomp, E. and Peterson, J. C., 2020 IsoMAPNL, v1.0.0, Zenodo, https://doi.org/10.5281/zenodo.3941066
 
 # Related References 
 ## Dataset: 
